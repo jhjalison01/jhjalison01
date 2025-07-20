@@ -57,7 +57,7 @@
   
   ### 🔹 [다문화 가정 한국어 튜터 매칭 앱 – Linkor](https://github.com/Linkor-GDSC)
   - 📅 **Duration**: 2024.01 – 2024.02  
-  - 🛠 **Stack**: Android (Kotlin), Firebase, Retrofit2  
+  - 🛠 **Stack**: Android (Kotlin), Firebase
   - 🧑‍💻 **Role**
     - Jetpack Compose UI 구성 (튜터 조회 / 한국어 학습 / 메시지 화면)
     - Firebase 기반 구글 로그인 구현
@@ -76,7 +76,7 @@
   
   ### 🔹 [가계부 앱 – Flow](https://github.com/Flow-UMC/Flow-Android)
   - 📅 **Duration**: 2023.01 – 2023.02  
-  - 🛠 **Stack**: Android (Kotlin), Retrofit2  
+  - 🛠 **Stack**: Android (Kotlin)
   - 🧑‍💻 **Role**
     - 캘린더 및 온보딩 화면 UI 구현
     - Retrofit2로 서버 통신
